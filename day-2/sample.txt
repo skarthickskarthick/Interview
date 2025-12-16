@@ -1,0 +1,2 @@
+12  not palindrome
+565  palindrome
